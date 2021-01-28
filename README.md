@@ -1,5 +1,5 @@
 # Poot_Bot
-A simple Twitter bot that Tweets out a cat emoji farting on a random emoji excluding country flags
+A simple Twitter bot that Tweets out a cat emoji farting on a random emoji
 <br>
 uses twit npm and emoji-list npm
 <br>
